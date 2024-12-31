@@ -54,5 +54,5 @@ npm i nodemon -D
 
  -> It includes support for routing, middleware, and other tools that simplify the process of creating robust applications. 
 
- * Note:- const express = require("express");  -> this is for "type":"common" which is default i.e. commonjs
+ * Note:- const express = require("express");  -> this is for "type":"common" which is default i.e. commonjs.
 
